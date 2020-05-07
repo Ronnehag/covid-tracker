@@ -81,6 +81,11 @@ i {
   margin-top: 100px;
 
 }
+@media(max-width: 776px){
+  h1{
+    font-size: 2em;
+  }
+}
 
 @import "~vue-material/dist/theme/engine"; // Import the theme engine
 

@@ -57,7 +57,7 @@ export default {
 }
 @media (max-width: 776px) {
   .input {
-    width: 400px;
+    width: 360px;
   }
 }
 </style>
